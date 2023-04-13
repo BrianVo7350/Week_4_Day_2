@@ -1,5 +1,4 @@
 INSERT INTO customer(
-    customer_id
     first_name,
     last_name, 
     age
@@ -15,6 +14,7 @@ INSERT INTO Movies(
     run_time
     rating
 )VALUES(
+    '1'
     'The super mario bros',
     '1 Hour 32 Minutes'
     'PG'
