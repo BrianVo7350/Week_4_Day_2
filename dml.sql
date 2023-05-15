@@ -44,4 +44,3 @@ INSERT INTO Concession(
     1
 );
 
---I am doing something wrong because I cannot select anything but I think the insert and values are right
